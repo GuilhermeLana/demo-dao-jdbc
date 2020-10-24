@@ -1,0 +1,6 @@
+
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8¹ØÃÕ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ª‰‡¾üÿÿÿÿ8¹ØÃÕ.
+X
+java:S1128"6Remove this unused import 'model.entities.Department'.(œæøÿÿÿÿ8¹ØÃÕ.
